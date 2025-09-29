@@ -7,8 +7,7 @@ ASCII art text banners in Python.
 Why this module?
 ----------------
 I chose **pyfiglet** because it is simple, fun, and lets you display
-text in a more creative way. It's easy to install and demonstrates how
-to work with a non-standard library.
+text in a more creative way.
 
 Installation
 ------------
